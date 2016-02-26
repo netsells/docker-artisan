@@ -1,4 +1,4 @@
-FROM netsells/fpm
+FROM netsells/fpm:5.5
 
 MAINTAINER "Sam Jordan" <sam@netsells.co.uk>
 
